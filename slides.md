@@ -46,11 +46,11 @@
 
 ### По частям речи
 
-![boxplot_posCount](graphics/boxplot_posCount.png)\
+![boxplot_posCount](graphics/boxplot_posCount.png){width=98%}
 
 ### По авторам
 
-![boxplot_authorCount](graphics/boxplot_authorCount.png)
+![boxplot_authorCount](graphics/boxplot_authorCount.png){ width=50% }
 
 
 ### По авторам
@@ -72,58 +72,55 @@
 ### Какие падежи бывают после наших предлогов?
 
 
-![boxplot_caseBy_prep=all](graphics/boxplot_caseBy_prep=all.png)\
+![boxplot_caseBy_prep=all](graphics/boxplot_caseBy_prep=all.png)
 
 ### Предлоги a, ab
 
-![boxplot_caseBy_prep=['a', 'ab']](graphics/boxplot_caseBy_prep=a,ab.png)\
+![boxplot_caseBy_prep=['a', 'ab']](graphics/boxplot_caseBy_prep=a,ab.png)
 
 
 ### Предлоги e, ex
 
-![boxplot_caseBy_prep=['e', 'ex']](graphics/boxplot_caseBy_prep=e,ex.png)\
+![boxplot_caseBy_prep=['e', 'ex']](graphics/boxplot_caseBy_prep=e,ex.png)
 
 ### Предлоги e, ex
 
-![boxplot_caseBy_prep=['e', 'ex']](graphics/boxplot_caseBy_prep=e,ex.png)\
+![boxplot_caseBy_prep=['e', 'ex']](graphics/boxplot_caseBy_prep=e,ex.png)
 
 ### Предлог de
 
-![boxplot_caseBy_prep=de.png](graphics/boxplot_caseBy_prep=de.png)\
+![boxplot_caseBy_prep=de.png](graphics/boxplot_caseBy_prep=de.png)
 
 ### Предлог cum
 
-![boxplot_caseBy_prep=['cum'].png](graphics/boxplot_caseBy_prep=['cum'].png)\
+![boxplot_caseBy_prep=['cum'].png](graphics/boxplot_caseBy_prep=['cum'].png)
 
 ### Предлог sine
 
-![boxplot_caseBy_prep=['sine'].png](graphics/boxplot_caseBy_prep=['sine'].png)\
+![boxplot_caseBy_prep=['sine'].png](graphics/boxplot_caseBy_prep=['sine'].png)
 
 ### Предлог pro
 
-![boxplot_caseBy_prep=['pro'].png](graphics/boxplot_caseBy_prep=['pro'].png)\
+![boxplot_caseBy_prep=['pro'].png](graphics/boxplot_caseBy_prep=['pro'].png)
 
 ### Предлог prae
 
-![boxplot_caseBy_prep=['prae'].png](graphics/boxplot_caseBy_prep=['prae'].png)\
+![boxplot_caseBy_prep=['prae'].png](graphics/boxplot_caseBy_prep=['prae'].png)
 
-### По частям речи
+## По частям речи
 
 ### Существительное
 
-![boxplot_pos=noun_case.png](graphics/boxplot_pos=noun_case.png)\
+![boxplot_pos=noun_case.png](graphics/boxplot_pos=noun_case.png)
 
 ### Местоимение
-![boxplot_pos=pronoun_case.png](graphics/boxplot_pos=pronoun_case.png)\
-
+![boxplot_pos=pronoun_case.png](graphics/boxplot_pos=pronoun_case.png)
 
 ### Прилагательное
-![boxplot_pos=adjective_case.png](graphics/boxplot_pos=adjective_case.png)\
-
+![boxplot_pos=adjective_case.png](graphics/boxplot_pos=adjective_case.png)
 
 ### Причастие
-![boxplot_pos=participle_case.png](graphics/boxplot_pos=participle_case.png)\
-
+![boxplot_pos=participle_case.png](graphics/boxplot_pos=participle_case.png)
 
 ## Несклоняемые части речи
 
@@ -133,11 +130,11 @@
 
 ### Наречие
 
-![boxplot_lemmaCount_pos=adverb.png](graphics/boxplot_lemmaCount_pos=adverb.png)\
+![boxplot_lemmaCount_pos=adverb.png](graphics/boxplot_lemmaCount_pos=adverb.png)
 
 ### Предлог 
 
-![boxplot_lemmaCount_pos=preposition.png](graphics/boxplot_lemmaCount_pos=preposition.png)\
+![boxplot_lemmaCount_pos=preposition.png](graphics/boxplot_lemmaCount_pos=preposition.png)
 
 ### Числительное
 
